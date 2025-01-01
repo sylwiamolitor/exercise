@@ -1,1 +1,2 @@
-This project was developed as part of an interview process.
+# This project was developed as part of an interview process.
+### It serves as an educational example to demonstrate the principles of inheritance and polymorphism in object-oriented programming (OOP). The project is designed to illustrate how classes can inherit properties and methods from parent classes, and how polymorphism allows for methods to be overridden in derived classes, enabling a single interface to represent different underlying forms (data types).
